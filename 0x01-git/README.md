@@ -1,1 +1,1 @@
-My first file in 0x01-git
+My first project in 0x01-git
